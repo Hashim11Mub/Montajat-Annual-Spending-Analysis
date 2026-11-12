@@ -1,18 +1,21 @@
-# Montajat-Annual-Spending-Analysis
-The Montajat Annual Spending Analysis is a data analysis project written in Python, aimed at helping the company Montajat optimize their revenue and profit by analyzing their annual spending across multiple product categories.
+# Montajat Annual Spending Analysis
 
-Key Features:
+A Python business-analytics case study exploring annual spending across wholesale product categories, with data preparation, visualizations and business recommendations.
 
-Data preprocessing: The project includes code to clean and preprocess the annual spending data, ensuring its quality and consistency for further analysis.
+## Work covered
 
-Exploratory data analysis (EDA): Various visualization techniques and statistical measures are employed to gain insights into Montajat's spending patterns across different product categories.
+- Clean and inspect the spending dataset.
+- Explore product-category patterns using Pandas and NumPy.
+- Visualize findings with Matplotlib and Seaborn.
+- Present recommendations in a report and slide deck.
 
-Outcome: The project includes the recommendation that Montajat need to do in order to increase their revenue.
+## Explore the project
 
-Dependencies:
+- [Analysis notebook](Montajat%20Wholesale%20Case.ipynb)
+- [Written report](Montajat%20Wholesale%20Case%20Report.pdf)
+- [Presentation](Final%20Presentation.pptx)
+- [Original case brief](Case%20-%20Montajat%20Wholesale%20Distributor.pdf)
 
-- Python 
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+The recommendations are outcomes of the case study, rather than measured commercial results.
+
+[Portfolio](https://hashem-m-almubarak-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/hashem-almubarak/)
